@@ -1,4 +1,4 @@
 # discord_python
-first install the requirements.txt
+SOURCE CODE DISCORD BOT PYTHON
 
-type: pip install requirements.txt
+-- nope --
